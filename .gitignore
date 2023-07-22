@@ -1,0 +1,6 @@
+*.swp
+target/
+.env
+dev-env/db-data/
+
+dist/
